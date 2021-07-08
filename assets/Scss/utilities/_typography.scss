@@ -1,0 +1,53 @@
+h1{
+    font-size: 82px;
+    line-height: 85px;
+    font-family: "Work Sans";
+    letter-spacing: -5px;
+    color: rgb(21, 47, 46);
+    font-style: normal;
+    font-weight: 600;
+    
+}
+
+h3{
+    font-size: 20px;
+    line-height: 1em;
+    font-family: "Work Sans";
+    color: rgb(21, 47, 46);
+    font-style: normal;
+    font-weight: 900;
+}
+
+p-2{
+    padding: 2 rem;
+}
+
+// btn-prm{
+//     @extend .p-2;
+// }
+.wallpaper-p{
+    
+    font-size: 20px;
+    line-height: 28px;
+    font-family: "Work Sans";
+    color: rgb(21, 47, 46);
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+  
+    width: 65%;
+
+}
+
+
+span{
+    font-size: 12px;
+    line-height: 1em;
+    font-family: "Work Sans";
+    letter-spacing: 2px;
+    // color: rgb(0, 194, 197);
+    font-style: normal;
+    font-weight: 600;
+    color: $secondtheme;
+}
+

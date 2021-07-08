@@ -1,0 +1,60 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+    overflow-x: hidden;
+    
+}
+
+.wrapper{
+    .wrapper__background{
+        
+        // height: 721px;
+        width: 100%;
+    }
+    
+    .wrapper__container{
+      
+        .hero-section{
+            background-image: url("../images/wallpaper.jpg");
+            background-size: cover;
+            // height: 100vh;
+            display: block;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+            border-style: none;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 0px;
+            border-radius: 0px;
+            width: 100%;
+            height: 721px;
+            position: relative;
+          
+
+            .hero-section__wallpaper{
+                .wallpaper-container{
+                    .wallpaper-container__row{
+                        padding-top: 5rem;
+                        .wallpaper-col1{
+                            .wallpaper__logo{
+                                img{
+                                    width: 138px;
+                                    height: 30px;
+                                }
+                            }
+                            .walpaper__heading{
+                                padding-top: 3rem;
+                                
+                            }
+                            .walpaper__para{
+                                padding-top: 2rem;
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}

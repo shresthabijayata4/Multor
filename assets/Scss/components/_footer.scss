@@ -1,0 +1,33 @@
+footer{
+    padding-top: 4rem;
+    .wrapper__footer{
+        background-color: $themecolor;
+        .footer__container{
+            width: 940px;
+            height: 135px;
+            
+            .footer__row{
+                
+                .footer__leftcol{
+                    top:60px;
+                    img{
+                        width: 90px;
+                         height: 20px;
+                    }
+                }
+                .footer__rightcol{
+                    top: 60px;
+                    text-align: center;
+                    p{
+                        font-size: 12px;
+                        line-height: 20px;
+                        font-family: Muli;
+                        color: rgb(162, 172, 172);
+                        font-style: normal;
+                        font-weight: 400;
+                    }
+                }
+            }
+        }
+    }
+}

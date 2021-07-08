@@ -1,0 +1,40 @@
+.wrapper__visitor{
+    .visitor__background{
+        // background-color: $secondtheme;
+        // position: relative;
+        .visitor__container{
+            .visitor__row{
+                .visitor__col{
+                    .visitor__title{
+                        .title__h2{
+                            font-size: 48px;
+                            line-height: 1em;
+                            font-family: "Work Sans";
+                            color: rgb(21, 47, 46);
+                            font-style: normal;
+                            font-weight: 600;
+                        }
+                    }
+                    .visitor__para{
+                        p{
+                            font-size: 18px;
+                            line-height: 30px;
+                            font-family: Muli;
+                            color: rgb(21, 47, 46);
+                            font-style: normal;
+                            font-weight: 400;
+                        }
+                    }
+                
+                }
+            }
+            .video__row{
+              
+                .video__col{
+                   
+                }
+            }
+        }
+    }
+    
+}

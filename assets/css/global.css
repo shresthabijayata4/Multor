@@ -1,0 +1,356 @@
+.themecolor {
+  color: #152f2e;
+}
+
+.sectheme {
+  color: #00c2c5;
+}
+
+h1 {
+  font-size: 82px;
+  line-height: 85px;
+  font-family: "Work Sans";
+  letter-spacing: -5px;
+  color: #152f2e;
+  font-style: normal;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 1em;
+  font-family: "Work Sans";
+  color: #152f2e;
+  font-style: normal;
+  font-weight: 900;
+}
+
+p-2 {
+  padding: 2 rem;
+}
+
+.wallpaper-p {
+  font-size: 20px;
+  line-height: 28px;
+  font-family: "Work Sans";
+  color: #152f2e;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+  width: 65%;
+}
+
+span {
+  font-size: 12px;
+  line-height: 1em;
+  font-family: "Work Sans";
+  letter-spacing: 2px;
+  font-style: normal;
+  font-weight: 600;
+  color: #00c2c5;
+}
+
+.wrapper__container {
+  padding: 0;
+}
+
+.wrapper__about {
+  padding-top: 9rem;
+}
+
+.wrapper__about .about__container .about__row .about__colright {
+  padding-top: 3rem;
+}
+
+.wrapper__about .about__container .about__row .about__colright .about__title h6 {
+  font-size: 32px;
+  line-height: 1em;
+  font-family: "Work Sans";
+  color: #152f2e;
+  font-style: normal;
+  font-weight: 600;
+  width: 55%;
+  padding-top: 20px;
+}
+
+.wrapper__about .about__container .about__row .about__colright .about__para {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: Muli;
+  color: #152f2e;
+  font-style: normal;
+  font-weight: 400;
+  width: 70%;
+  padding-top: 20px;
+}
+
+.wrapper__feature {
+  padding-top: 7rem;
+}
+
+.wrapper__feature .feature__container .feature__row .feature__row-col1 .feature1__title h5 {
+  text-align: left;
+}
+
+.wrapper__feature .feature__container .feature__row .feature__row-col1 .feature1__para p {
+  text-align: left;
+}
+
+.wrapper__feature .feature__container .feature__row .feature__row-col2 .feature2__title h5 {
+  text-align: left;
+}
+
+.wrapper__feature .feature__container .feature__row .feature__row-col2 .feature2__para p {
+  text-align: left;
+}
+
+.wrapper__feature .feature__container .feature__row .feature__row-col3 .feature2__title h5 {
+  text-align: left;
+}
+
+.wrapper__feature .feature__container .feature__row .feature__row-col3 .feature2__para p {
+  text-align: left;
+}
+
+footer {
+  padding-top: 4rem;
+}
+
+footer .wrapper__footer {
+  background-color: #152f2e;
+}
+
+footer .wrapper__footer .footer__container {
+  width: 940px;
+  height: 135px;
+}
+
+footer .wrapper__footer .footer__container .footer__row .footer__leftcol {
+  top: 60px;
+}
+
+footer .wrapper__footer .footer__container .footer__row .footer__leftcol img {
+  width: 90px;
+  height: 20px;
+}
+
+footer .wrapper__footer .footer__container .footer__row .footer__rightcol {
+  top: 60px;
+  text-align: center;
+}
+
+footer .wrapper__footer .footer__container .footer__row .footer__rightcol p {
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Muli;
+  color: #a2acac;
+  font-style: normal;
+  font-weight: 400;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  overflow-x: hidden;
+}
+
+.wrapper .wrapper__background {
+  width: 100%;
+}
+
+.wrapper .wrapper__container .hero-section {
+  background-image: url("../images/wallpaper.jpg");
+  background-size: cover;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0px;
+  border-radius: 0px;
+  width: 100%;
+  height: 721px;
+  position: relative;
+}
+
+.wrapper .wrapper__container .hero-section .hero-section__wallpaper .wallpaper-container .wallpaper-container__row {
+  padding-top: 5rem;
+}
+
+.wrapper .wrapper__container .hero-section .hero-section__wallpaper .wallpaper-container .wallpaper-container__row .wallpaper-col1 .wallpaper__logo img {
+  width: 138px;
+  height: 30px;
+}
+
+.wrapper .wrapper__container .hero-section .hero-section__wallpaper .wallpaper-container .wallpaper-container__row .wallpaper-col1 .walpaper__heading {
+  padding-top: 3rem;
+}
+
+.wrapper .wrapper__container .hero-section .hero-section__wallpaper .wallpaper-container .wallpaper-container__row .wallpaper-col1 .walpaper__para {
+  padding-top: 2rem;
+}
+
+.wrapper__visitor .visitor__background .visitor__container .visitor__row .visitor__col .visitor__title .title__h2 {
+  font-size: 48px;
+  line-height: 1em;
+  font-family: "Work Sans";
+  color: #152f2e;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.wrapper__visitor .visitor__background .visitor__container .visitor__row .visitor__col .visitor__para p {
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Muli;
+  color: #152f2e;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.appointment__para {
+  font-size: 15px;
+  line-height: 22px;
+  font-family: "Work Sans";
+  color: #152f2e;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col1 {
+  padding-top: 7rem;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col1 .col1__container .row {
+  padding-top: 30px;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col2 .col2__card {
+  height: 700px;
+  width: 400px;
+  padding: 40px 10px;
+  background: #152f2e;
+  bottom: 105px;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col2 .col2__card .card-title h2 {
+  text-align: center;
+  color: white;
+  font-weight: 600;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col2 .col2__card .card-title p {
+  font-size: 15px;
+  line-height: 22px;
+  font-family: Muli;
+  color: white;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  padding: 10px 30px;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col2 .col2__card form {
+  text-align: center;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col2 .col2__card form .form-group {
+  padding: 3px 20px;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col2 .col2__card form .form-group .form-style {
+  top: 0px;
+  left: 0px;
+  width: 308px;
+  height: 46px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d8d8d8;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col2 .col2__card form .form-group .submit-button {
+  width: 308px;
+  height: 55px;
+  background-color: #00c2c5;
+  color: white;
+  border-color: none;
+  border-radius: 5px;
+  font-weight: 600;
+  border: 0px solid;
+}
+
+.wrapper__appointment .hero-section__belowpart .belowpart__row .belowpart__col2 .col2__card form .form-group .dropdown-style {
+  top: 0px;
+  left: 0px;
+  width: 308px;
+  height: 46px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d8d8d8;
+  padding: 10px;
+}
+
+.col1__star ul {
+  list-style-type: none;
+}
+
+.col1__star ul li {
+  display: inline;
+}
+
+.wrapper__review {
+  padding-top: 5rem;
+}
+
+.wrapper__review .review__row1 .reviewrow1__col span {
+  font-size: 12px;
+  line-height: 1em;
+  font-family: "Work Sans";
+  letter-spacing: 2px;
+  color: #00c2c5;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.wrapper__review .review__row2 {
+  padding-top: 3rem;
+}
+
+.wrapper__review .review__row2 .reviewrow2__col1 .col1__star .star__ul li i {
+  color: #00c2c5;
+  font-size: 10px;
+}
+
+.wrapper__review .review__row2 .reviewrow2__col1 .col1__star p {
+  font-size: 24px;
+  line-height: 1em;
+  font-family: Muli;
+  color: #152f2e;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.wrapper__review .review__row2 .reviewrow2__col2 .col1__star .star__ul li i {
+  color: #00c2c5;
+  font-size: 10px;
+}
+
+.wrapper__review .review__row3 .reviewrow3__col1 .col1__ul {
+  list-style-type: none;
+}
+
+.wrapper__review .review__row3 .reviewrow3__col1 .col1__ul li {
+  display: inline;
+}
+
+.wrapper__review .review__row3 .reviewrow3__col2 ul {
+  list-style-type: none;
+}
+
+.wrapper__review .review__row3 .reviewrow3__col2 ul li {
+  display: inline;
+}
+/*# sourceMappingURL=global.css.map */
